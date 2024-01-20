@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I am a junior Flutter Developer from India<br>🎨 My hobbies include coding, design, game development and art<br>👁️ I am currently interested in AI, Innovation and IoT devices
+💼 I am a Flutter Developer from India<br>🎨 My hobbies include coding, design, game development and art<br>👁️ I am currently interested in AI, Innovation and IoT devices
 
 
 ## 🌐 Socials:
