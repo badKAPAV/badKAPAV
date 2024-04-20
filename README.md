@@ -1,6 +1,5 @@
 # 💫 About Me:
-💼 I am a Flutter Developer from India<br>🎨 My hobbies include coding, design, game development and art<br>👁️ I am currently interested in AI, Innovation and IoT devices
-
+💼 I am a Flutter Developer from India<br>🎨 My hobbies include coding, design, game development and art<br>👁️ I am currently interested in AI and Innovation
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kapav_dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_badkapav_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avigyan-das-b07337237) 
