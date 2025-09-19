@@ -1,7 +1,7 @@
 # 💫 About Me:
 💼 I am a Mobile Developer from India<br>🎨 My hobbies include coding, design, game development and art
 
-### Currently working on Wallzy 🎧
+### Currently working on Wallzy 💳
 ### Mastering Flutter, Bloc, Kotlin & React 🥇
 ### Sipping tea and creating apps to make peoples' lives easier ☕
 
