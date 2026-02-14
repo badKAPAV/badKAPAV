@@ -78,9 +78,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=badKAPAV&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badKAPAV&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badKAPAV&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=badKAPAV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badKAPAV&layout=compact&theme=radical"/>
 </p>
 
 ---
