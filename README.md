@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://kapav.netlify.com">
+  <a href="https://kapav.netlify.app">
     <img src="https://img.shields.io/badge/Explore-My%20Portfolio-red?style=for-the-badge" />
   </a>
 </p>
