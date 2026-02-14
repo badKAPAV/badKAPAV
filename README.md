@@ -1,7 +1,7 @@
 # Avigyan Das
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=F70000&vCenter=true&multiline=false&width=600&lines=Flutter+Expert+%7C;UI%2FUX+Developer+%7C;Android+Engineer+%7C" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=F70000&vCenter=true&width=600&lines=Flutter+Expert+%7C;UI%2FUX+Developer+%7C;Android+Engineer+%7C" />
 </p>
 
 ---
@@ -78,8 +78,16 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=badKAPAV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badKAPAV&layout=compact&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=badKAPAV&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badKAPAV&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=badKAPAV&theme=radical&hide_border=false"/>
 </p>
 
 ---
@@ -87,5 +95,5 @@
 ## 👀 Profile Views
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=avigyandas123&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=badKAPAV&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
