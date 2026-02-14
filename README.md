@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=F70000&vCenter=true&width=600&lines=Flutter+Expert+%7C;UI%2FUX+Developer+%7C;Android+Engineer+%7C" />
 </p>
 
+<p>
+  <a href="https://kapav.netlify.com">
+    <img src="https://img.shields.io/badge/Explore-My%20Portfolio-red?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
